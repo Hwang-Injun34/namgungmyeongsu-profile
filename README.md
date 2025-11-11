@@ -1,4 +1,4 @@
-# 남궁명수
+# 남궁명수 Namgung Myeongsu
 Junior Backend Developer
 
 이메일: ngms0304@gmail.com | LinkedIn: [링크] | Blog: [링크]
