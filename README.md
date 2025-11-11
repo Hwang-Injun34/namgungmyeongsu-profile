@@ -61,6 +61,3 @@ Junior Backend Developer
 - **What I Learned**: 프론트엔드 배포 파이프라인과 정적 파일 관리  
 
 ---
-
-감사합니다.  
-읽어주셔서 고맙습니다.
