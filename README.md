@@ -8,12 +8,6 @@ Junior Backend Developer
 
 ---
 
-## Tech Stack
-
-자세한 기술 스택은 [여기](./TECH_STACK.md)에서 확인하세요.
-
----
-
 ## Projects
 
 ### Team Projects
