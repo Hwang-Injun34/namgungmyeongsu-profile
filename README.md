@@ -1,7 +1,7 @@
 # 남궁명수
 Junior Backend Developer
 
-이메일: ngms0304@gmail.com | LinkedIn: [링크](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/) | Blog: [링크](https://blog.naver.com/punggi_boy34)
+이메일: ngms0304@gmail.com | LinkedIn: [링크] | Blog: [링크]
 
 ---
 
@@ -14,10 +14,9 @@ Junior Backend Developer
 ## Projects
 
 ### Team Projects
-협업 기반으로 진행한 주요 프로젝트입니다.
+> 협업 기반으로 진행한 주요 프로젝트입니다.
 
 #### 프로젝트 1 — Public Insight
-간단한 설명을 작성하세요.
 
 - Role: 백엔드 개발 (API 설계, DB 모델링)
 - Tech Stack: FastAPI, MySQL, Docker, Nginx
@@ -30,7 +29,6 @@ Junior Backend Developer
 <br>
 
 #### 프로젝트 2 — Smart Trash Bin Detection
-간단한 설명을 작성하세요.
 
 - Role: 백엔드 / AI 모델 연동
 - Tech Stack: Python, YOLOv5, Raspberry Pi
@@ -42,23 +40,13 @@ Junior Backend Developer
 ---
 
 ### Mini Projects (Personal)
-개인적으로 진행한 학습 중심 프로젝트입니다.
+> 개인적으로 진행한 학습 중심 프로젝트입니다.
 
 #### 미니 프로젝트 1 — Simple REST API
-간단한 설명을 작성하세요.
 
 - Tech Stack: FastAPI, SQLite
 - Repository: [GitHub Link](#)
 - What I Learned: REST API 설계와 데이터 CRUD 원리
-
-<br>
-
-#### 미니 프로젝트 2 — Portfolio Website
-간단한 설명을 작성하세요.
-
-- Tech Stack: React, Vite, Nginx
-- Repository: [GitHub Link](#)
-- What I Learned: 프론트엔드 배포 파이프라인과 정적 파일 관리
 
 ---
 
