@@ -50,5 +50,3 @@ Junior Backend Developer
 
 ---
 
-감사합니다.  
-읽어주셔서 고맙습니다.
