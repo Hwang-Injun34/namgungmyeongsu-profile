@@ -1,7 +1,7 @@
 # 남궁명수
 Junior Backend Developer
 
-이메일: ngms0304@gmail.com | LinkedIn: [링크] | Blog: [링크]
+이메일: ngms0304@gmail.com | LinkedIn: [링크](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/) | Blog: [링크](https://blog.naver.com/punggi_boy34)
 
 ---
 
@@ -27,6 +27,8 @@ Junior Backend Developer
   - 사용자 인증 및 JWT 기반 세션 관리 구현
   - DB 스키마 설계 및 API 문서화
 
+<br>
+
 #### 프로젝트 2 — Smart Trash Bin Detection
 간단한 설명을 작성하세요.
 
@@ -49,5 +51,16 @@ Junior Backend Developer
 - Repository: [GitHub Link](#)
 - What I Learned: REST API 설계와 데이터 CRUD 원리
 
+<br>
+
+#### 미니 프로젝트 2 — Portfolio Website
+간단한 설명을 작성하세요.
+
+- Tech Stack: React, Vite, Nginx
+- Repository: [GitHub Link](#)
+- What I Learned: 프론트엔드 배포 파이프라인과 정적 파일 관리
+
 ---
 
+감사합니다.  
+읽어주셔서 고맙습니다.
