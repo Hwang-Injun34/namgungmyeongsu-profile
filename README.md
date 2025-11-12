@@ -1,10 +1,16 @@
-# 남궁명수 (Namgung Myeongsu)
+## 남궁명수 (Namgung Myeongsu)
 
-Junior Backend Developer
+**Junior Backend Developer**
 
-📧 ngms0304@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/)  
-📝 [Blog](https://blog.naver.com/punggi_boy34)
+[간단설명써도 좋고]
+
+---
+
+## Contact & Channels
+
+*   **Email:** ngms0304@gmail.com
+*   **LinkedIn:** [남궁명수](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/)
+*   **Blog:** [블로그](https://blog.naver.com/punggi_boy34)
 
 ---
 
@@ -13,12 +19,19 @@ Junior Backend Developer
 ### Team Projects
 > 협업 기반으로 진행한 주요 프로젝트입니다.
 
+<br>
+
 #### 프로젝트 1 — Smart Trash Bin Detection
 
-- Role: 백엔드 / AI 모델 연동
-- Tech Stack: Python, YOLOv5, Raspberry Pi
-- Repository: [GitHub Link](#)
-- Main Contribution:
+
+> IoT 기반 쓰레기통 상태 감지 시스템으로, 실시간 영상 분석을 통해 쓰레기통이 가득 차면 관리자에게 알림을 전송합니다.
+
+
+- **Role**: 백엔드 / AI 모델 연동 (빼도 좋곡)
+- **Tech Stack**: Python, YOLOv5, Raspberry Pi (빼도 좋고)
+
+- **Repository**: [GitHub Link](#)
+- **Main Contribution**:
   - 실시간 영상 분석 및 알림 시스템 구현
   - 이메일 전송 기능 자동화
 
