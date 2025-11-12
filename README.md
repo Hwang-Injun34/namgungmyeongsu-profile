@@ -46,6 +46,9 @@
 - Main Contribution:
   - 사용자 인증 및 JWT 기반 세션 관리 구현
   - DB 스키마 설계 및 API 문서화
+ 
+<br>
+
 ---
 
 ### Mini Projects (Personal)
