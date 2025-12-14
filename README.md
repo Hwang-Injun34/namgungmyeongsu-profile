@@ -54,11 +54,11 @@
 ### Mini Projects (Personal)
 > 개인적으로 진행한 학습 중심 프로젝트입니다.
 
-#### 미니 프로젝트 1 — Simple REST API
+#### 미니 프로젝트 1 — Politi-Search
 
-- Tech Stack: FastAPI, SQLite
-- Repository: [GitHub Link](#)
-- What I Learned: REST API 설계와 데이터 CRUD 원리
+- Tech Stack: FastAPI, Elasticsearch, MySQL
+- Repository: [GitHub Link](https://github.com/Hwang-Injun34/elasticsearch_notes)
+
 
 ---
 
