@@ -8,7 +8,7 @@
 
 ## Contact & Channels
 
-*   **Email:** ngms0304@gmail.com
+*   **Email:** myeongsu.namgung@gmail.com
 *   **LinkedIn:** [남궁명수](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/)
 *   **Blog:** [블로그](https://blog.naver.com/punggi_boy34)
 
