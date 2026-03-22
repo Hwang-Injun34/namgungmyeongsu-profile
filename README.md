@@ -21,24 +21,11 @@
 
 <br>
 
-#### 프로젝트 1 — Smart Trash Bin Detection
+---
 
+#### 프로젝트 1: Public Insight
 
-> IoT 기반 쓰레기통 상태 감지 시스템으로, 실시간 영상 분석을 통해 쓰레기통이 가득 차면 관리자에게 알림을 전송합니다.
-
-
-- **Role**: 백엔드 / AI 모델 연동 (빼도 좋곡)
-- **Tech Stack**: Python, YOLOv5, Raspberry Pi (빼도 좋고)
-
-- **Repository**: [GitHub Link](#)
-- **Main Contribution**:
-  - 실시간 영상 분석 및 알림 시스템 구현
-  - 이메일 전송 기능 자동화
-
-<br>
-
-#### 프로젝트 2 — Public Insight
-
+>
 - Role: 백엔드 개발 (API 설계, DB 모델링)
 - Tech Stack: FastAPI, MySQL, Docker, Nginx
 - Repository: [GitHub Link](#)
@@ -54,11 +41,24 @@
 ### Mini Projects (Personal)
 > 개인적으로 진행한 학습 중심 프로젝트입니다.
 
-#### 미니 프로젝트 1 — Politi-Search
+<br>
 
-- Tech Stack: FastAPI, Elasticsearch, MySQL
-- Repository: [GitHub Link](https://github.com/Hwang-Injun34/elasticsearch_notes)
+---
+#### 미니 프로젝트 1: Politi-Search
+> 
+- **Tech Stack**: FastAPI, Elasticsearch, MySQL
+- **Repository**: [GitHub Link](https://github.com/Hwang-Injun34/elasticsearch_notes)
 
+<br>
+
+---
+
+#### 미니 프로젝트 2: trash-overflow-detector
+> IoT 기반 쓰레기통 상태 감지 시스템으로, 실시간 영상 분석을 통해 쓰레기통이 가득 차면 관리자에게 알림을 전송합니다.
+- **Tech Stack**: Python, YOLOv5, Raspberry Pi
+- **Repository**: [GitHub Link](https://github.com/Hwang-Injun34/trash-overflow-detector)
+
+<br>
 
 ---
 
