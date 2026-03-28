@@ -52,5 +52,21 @@
 
 ---
 
-### Study
-> 개인 공부
+### Study (Learning & Practice)
+> 개인 학습 및 기술 역량 강화
+
+#### Programming Languages 
+-  C Language(자료 구조/메모리/포인터)
+-  Assembly (NASM기반 저수준 프로그래밍)
+
+#### Computer Science Fundamentals 
+- Data Structures & Algorithms(구현/문제풀이)
+- Operating System
+- Network Basics
+
+#### Backend/Web Study
+- FastAPI 구조
+- JWT 인증 방식 이해
+- MySQL
+- Docker/Nginx 실습
+  
