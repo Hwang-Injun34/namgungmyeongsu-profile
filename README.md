@@ -43,3 +43,12 @@
 > 사용자가 문서를 열지 않고도 발언 주체와 맥락을 직관적으로 파악 가능
 - **Tech Stack:** FastAPI, Elasticsearch, MySQL
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/elasticsearch_notes)
+
+#### Pac-man
+> 어셈블리어를 활용한 미니 게임 프로젝트  
+> 블라블라
+- **Tech Stack:** NASM
+- **Repository:** [GitHub]()
+
+### Study
+> 개인 공부
