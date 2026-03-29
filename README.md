@@ -19,7 +19,7 @@
 ### Team Projects
 > 협업 기반으로 진행한 주요 프로젝트
 
-#### Public Insight
+[#### Public Insight]
 - **Role:** 백엔드 개발 (API 설계, DB 모델링)
 - **Tech Stack:** FastAPI, MySQL, Docker, Nginx
 - **Repository:** [GitHub Link](#)
