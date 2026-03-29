@@ -1,7 +1,7 @@
 ## 남궁명수 (Namgung Myeongsu)
 
 **Junior Backend Developer**  
-자기소개 예정
+자기소개
 스킬
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-### Study (Learning & Practice)
+### 📚 Study (Learning & Practice)
 > 개인 학습 및 기술 역량 강화
 
 #### Programming Languages 
