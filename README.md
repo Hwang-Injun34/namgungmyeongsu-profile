@@ -19,7 +19,7 @@
 ### Team Projects
 > 협업 기반으로 진행한 주요 프로젝트
 
-[#### Public Insight]
+#### [Public Insight]
 - **Role:** 백엔드 개발 (API 설계, DB 모델링)
 - **Tech Stack:** FastAPI, MySQL, Docker, Nginx
 - **Repository:** [GitHub Link](#)
@@ -33,18 +33,18 @@
 ### Mini Projects (Personal)
 > 개인 학습 및 실습 중심 프로젝트
 
-#### trash-overflow-detector
+#### [trash-overflow-detector]
 > IoT 기반 쓰레기통 상태 감지 시스템. 실시간 영상 분석을 통해 쓰레기통이 가득 차면 관리자에게 알림 전송
 - **Tech Stack:** Python, YOLOv5, Raspberry Pi
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/trash-overflow-detector)
 
-#### Politi-Search
+#### [Politi-Search]
 > 국회 회의록을 발언 단위로 구조화하고 의미 기반 검색을 지원.  
 > 사용자가 문서를 열지 않고도 발언 주체와 맥락을 직관적으로 파악 가능
 - **Tech Stack:** FastAPI, Elasticsearch, MySQL
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/elasticsearch_notes)
 
-#### Pac-man
+#### [Pac-man]
 > 어셈블리어를 활용한 터미널 기반 미니 게임 프로젝트
 > x86-64 NASM을 사용하여 syscall 기반 입출력, 메모리 구조, Raw Mode 터미널 제어를 직접 구현하고, 플레이어 이동·충돌 처리·고스트 등 게임 로직을 저수준에서 설계 및 개발
 - **Tech Stack:** NASM, Linux syscall
