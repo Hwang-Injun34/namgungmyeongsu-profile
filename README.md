@@ -45,9 +45,9 @@
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/elasticsearch_notes)
 
 #### Pac-man
-> 어셈블리어를 활용한 미니 게임 프로젝트  
-> 블라블라
-- **Tech Stack:** NASM
+> 어셈블리어를 활용한 터미널 기반 미니 게임 프로젝트
+> x86-64 NASM을 사용하여 syscall 기반 입출력, 메모리 구조, Raw Mode 터미널 제어를 직접 구현하고, 플레이어 이동·충돌 처리·고스트 등 게임 로직을 저수준에서 설계 및 개발
+- **Tech Stack:** NASM, Linux syscall
 - **Repository:** [GitHub]()
 
 ---
