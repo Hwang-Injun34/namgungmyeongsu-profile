@@ -1,16 +1,14 @@
 ## 남궁명수 (Namgung Myeongsu)
 
 **Junior Backend Developer**  
-자기소개
-스킬
-
+- 추가예정
 ---
 
 ## Contact & Channels
 
 - **Email:** myeongsu.namgung@gmail.com
-- **LinkedIn:** [남궁명수](https://www.linkedin.com/in/%EB%AA%85%EC%88%98-%EB%82%A8%EA%B6%81-296259396/)
-- **Blog:** [블로그](https://blog.naver.com/punggi_boy34)
+- **Phone:** 010-9405-7554
+- **Blog:** https://blog.naver.com/punggi_boy34
 
 ---
 
@@ -20,8 +18,13 @@
 > 협업 기반으로 진행한 주요 프로젝트
 
 #### 📁 Public Insight
-- **Role:** 백엔드 개발 (API 설계, DB 모델링)
-- **Tech Stack:** FastAPI, MySQL, Docker, Nginx
+> 지식 그래프 기반 정책 데이터 탐색 및 추천 플랫폼<br>
+> 정책 간 관계를 연결하여 직관적인 탐색 및 개인화 추천 제공
+- **Role:**
+  - FastAPI 기반 백엔드 아키텍처 설계 및 구현
+  - JWT 인증 및 미들웨어 설계
+  - 정책 데이터 크롤링 및 ETL 파이프라인 구현
+- **Tech Stack:** FastAPI, MySQL, Docker, Nginx, Elasticsearch
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/public_insight_notes)
 
 ---
@@ -30,20 +33,33 @@
 > 개인 학습 및 실습 중심 프로젝트
 
 #### 📁 trash-overflow-detector
-> IoT 기반 쓰레기통 상태 감지 시스템. 실시간 영상 분석을 통해 쓰레기통이 가득 차면 관리자에게 알림 전송
+> 엣지 디바이스 기반 쓰레기통 Overflow 감지 시스템 <br>
+> YOLOV5 기반 영상 분석을 통해 실시간 상태를 판단하고 알림 자동 전송
 - **Tech Stack:** Python, YOLOv5, Raspberry Pi
+- **Key Points:**
+  - Edge AI 기반 독립 실행 구조 설계
+  - 영상 기반 상태 판단 로직 구현(bin/garbage/overflow)
+  - 이벤트 기반 이메일 알림 시스템 구축
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/trash-overflow-detector)
 
 #### 📁 Politi-Search
-> 국회 회의록을 발언 단위로 구조화하고 의미 기반 검색을 지원.  
-> 사용자가 문서를 열지 않고도 발언 주체와 맥락을 직관적으로 파악 가능
+> 국회 회의록을 발언 단위로 구조화하고 의미 기반 검색을 제공하는 시스템 <br> 
+> 키워드 검색의 한계를 개선하고 문맥 기반 탐색 가능
 - **Tech Stack:** FastAPI, Elasticsearch, MySQL
+- **Key Points:**
+  - 발언 단위 데이터 구조 설계 및 인덱싱
+  - Elasticsearch 기반 검색 엔진 구현
+  - 키워드 + 시멘틱 검색 구조 실험 및 비교 
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/elasticsearch_notes)
 
 #### 📁 Pac-man
-> 어셈블리어를 활용한 터미널 기반 미니 게임 프로젝트
-> x86-64 NASM을 사용하여 syscall 기반 입출력, 메모리 구조, Raw Mode 터미널 제어를 직접 구현하고, 플레이어 이동·충돌 처리·고스트 등 게임 로직을 저수준에서 설계 및 개발
+> x86-64 Assembly 기반 Terminal 게임 구현 프로젝트<br>
+> syscall, 메모리, 레지스터 수준에서 프로그램 동작을 직접 제어
 - **Tech Stack:** NASM, Linux syscall
+- **Key Points:**
+   - syscall 기반 입출력 및 실행 흐름 직접 구현
+   - 레지스터 및 메모리 기반 게임 상태 관리
+   - Raw Mode 터미널 입력 처리 및 화면 제어 구현 
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/pacman-assembly)
 
 ---
@@ -52,8 +68,8 @@
 > 개인 학습 및 기술 역량 강화
 
 #### Programming Languages 
--  C Language(자료 구조/메모리/포인터)
--  Assembly (NASM기반 저수준 프로그래밍)
+- C Language(자료 구조/메모리/포인터)
+- Assembly (NASM기반 저수준 프로그래밍)
 
 #### Computer Science Fundamentals 
 - Data Structures & Algorithms(구현/문제풀이)
