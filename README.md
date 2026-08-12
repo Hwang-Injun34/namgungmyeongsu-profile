@@ -1,14 +1,14 @@
 ## 남궁명수 (Namgung Myeongsu)
 
 **Junior Backend Developer**  
-- 추가예정
+- Go와 Linux를 기반으로 서버 및 시스템 소프트웨어를 공부하고 있습니다.
+- OS, Network, Database의 동작 원리를 이해하고 이를 실제 개발에 적용하는 것을 중요하게 생각합니다.
 ---
 
 ## Contact & Channels
 
 - **Email:** myeongsu.namgung@gmail.com
 - **Phone:** 010-9405-7554
-- **Blog:** https://blog.naver.com/punggi_boy34
 
 ---
 
@@ -51,6 +51,16 @@
   - Elasticsearch 기반 검색 엔진 구현
   - 키워드 + 시멘틱 검색 구조 실험 및 비교 
 - **Repository:** [GitHub](https://github.com/Hwang-Injun34/elasticsearch_notes)
+
+#### 📁 mini-edr
+> Linux Audit 이벤트를 수집하고 규칙에 따라 의심스러운 행위를 탐지하는 Go기반 경량 EDR 에이전트<br>
+> 이벤트의 수집부터 변환, 탐지, 경고까지 이어지는 파이프라인을 직접 설계하고 구현
+- **Tech Stack:** Go, Linux, Auditd
+- **Key Points:**
+    - 동일한 Audit Event ID의 레코드를 조립하고 공통 SystemEvent 모델로 변환
+    - Collector → Dispatcher → Rule Engine → Alert 구조의 동시성 파이프라인 설계
+    - JSON 기반 탐지 규칙 엔진 및 프로세스·파일·네트워크·권한 상승·영속성 탐지 규칙 구현
+- **Repository:** [GitHub](https://github.com/Hwang-Injun34/mini_edr)
 
 #### 📁 Pac-man
 > x86-64 Assembly 기반 Terminal 게임 구현 프로젝트<br>
