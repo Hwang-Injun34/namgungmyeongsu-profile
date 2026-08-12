@@ -75,20 +75,13 @@
 ---
 
 ### 📚 Study (Learning & Practice)
-> 개인 학습 및 기술 역량 강화
 
-#### Programming Languages 
-- C Language(자료 구조/메모리/포인터)
-- Assembly (NASM기반 저수준 프로그래밍)
+> 운영체제와 Linux를 중심으로 학습한 이론과 실습 내용을 문서화하고 있습니다.
 
-#### Computer Science Fundamentals 
-- Data Structures & Algorithms(구현/문제풀이)
-- Operating System
-- Network Basics
+- **Operating System:** 가상화, 병행성, I/O, 파일 시스템
+- **Linux:** 기본 개념 및 시스템 프로그래밍 실습
+- **Programming:** C, Go 동시성, x86-64 Assembly
+- **Mathematics:** 선형대수학
 
-#### Backend/Web Study
-- FastAPI 구조
-- JWT 인증 방식 이해
-- MySQL
-- Docker/Nginx 실습
+- **Repository:** [Computer Science Notes](https://github.com/Hwang-Injun34/computer-science-notes)
   
